@@ -1,3 +1,4 @@
-- Name: [Satoru Shibata / 柴田 怜](https://www.linkedin.com/in/satoru-shibata-91594218b/)
-- Role: Data Science Education Instructor
-- Menu: Linear Regression Analysis Theory and Development with Python3 and R
+- Name: [Satoru Shibat(柴田 怜)](https://www.linkedin.com/in/the-worlds-strongest-data-scientist/)
+- Role: Data Science Education Instructor at [AVANT](https://www.avantcorp.com/en/)
+- Menu: Theory and Implementation with both of Python and R in [Jupyter Notebook](https://jupyter.org/documentation):
+  - Linear Regression Analysis
